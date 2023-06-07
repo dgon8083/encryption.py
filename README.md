@@ -1,2 +1,2 @@
 # encryption.py
-Encrypting and Decrypting Messages
+Created a simple program used for Encrypting and Decrypting Messages
